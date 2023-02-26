@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\FACTURA.props" />
+</Project>
